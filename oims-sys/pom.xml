@@ -23,7 +23,7 @@
 		<oims-search.version>0.0.1-SNAPSHOT</oims-search.version>
 
 
-		<fasterxml-version>2.2.3</fasterxml-version>
+		<fasterxml-version>2.11.0</fasterxml-version>
 		<org.springframework-version>3.1.0.RELEASE</org.springframework-version>
 		<org.springframework-security-version>3.1.4.RELEASE</org.springframework-security-version>
 		<org.aspectj-version>1.8.6</org.aspectj-version>
