@@ -43,7 +43,7 @@
 		<oims-core.aspectj.version>1.5.4</oims-core.aspectj.version>
 		<oims-core.mysql-connector-java>5.1.31</oims-core.mysql-connector-java>
 		<oims-core.junit.version>4.9</oims-core.junit.version>
-		<oims-core.org.springframework.version>3.2.5.RELEASE</oims-core.org.springframework.version>
+		<oims-core.org.springframework.version>5.2.7.RELEASE</oims-core.org.springframework.version>
 		<oims-core.c3p0.version>0.9.1.2</oims-core.c3p0.version>
 		<oims-core.querydsl.version>3.4.2</oims-core.querydsl.version>
 		<oims-core.jodatime.version>2.0</oims-core.jodatime.version>
